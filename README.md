@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey! I'm Abhay Mudgal. 👋
+
+[![Linkedin: Abhay Mudgal]](https://www.linkedin.com/in/abhay-mudgal-840535151/)
+
 
 <!--
 **mudgalabhay/mudgalabhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
