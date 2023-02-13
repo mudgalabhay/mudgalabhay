@@ -1,6 +1,6 @@
 ### Hey! I'm Abhay Mudgal. 👋
 
-[![Linkedin: Abhay Mudgal]](https://www.linkedin.com/in/abhay-mudgal-840535151/)
+![Abhay GitHub stats](https://github-readme-stats.vercel.app/api?username=mudgalabhay&theme=transparent&show_icons=true)
 
 
 <!--
