@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudgalabhay)](https://github.com/mudgalabhay/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=mudgalabhay&color=blue)
+
 
 <!--
 **mudgalabhay/mudgalabhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
