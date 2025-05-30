@@ -1,23 +1,15 @@
 ### Hey! I'm Abhay. 👋
 
-![Abhay GitHub stats](https://github-readme-stats.vercel.app/api?username=mudgalabhay&theme=transparent&show_icons=true)
+![Abhay GitHub stats](https://github-readme-stats.vercel.app/api?username=mudgalabhay&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudgalabhay&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudgalabhay)](https://github.com/mudgalabhay/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=mudgalabhay&color=blue)
 
-
-<!--
-**mudgalabhay/mudgalabhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me:
+  
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mudgalabhay57/)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/AbhayMudgal8)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/mudgal.abhay/)
