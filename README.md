@@ -2,7 +2,7 @@
 
 <!-- ![Abhay GitHub stats](https://github-readme-stats.vercel.app/api?username=mudgalabhay&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudgalabhay&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudgalabhay&theme=nord_bright)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudgalabhay)](https://github.com/mudgalabhay/github-readme-stats) -->
 
